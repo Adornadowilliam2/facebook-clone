@@ -1,12 +1,11 @@
-import { useState } from 'react'
-import './App.css'
+import { useState } from "react";
+import "./App.css";
 
 function App() {
-
   return (
     <>
       <div
-        className="flex flex-col justify-center items-center p-3 bg-gradient-to-r font-helvetica font-light lg:h-[100vh]"
+        className="flex flex-col justify-center items-center p-3 bg-gradient-to-r font-helvetica font-light"
         style={{
           background:
             "linear-gradient(90deg, #FEF7F4 0%, #FCF3F8 9%, #EEF7FF 20%)",
@@ -37,10 +36,11 @@ function App() {
         </div>
         <img
           src="https://github.com/Adornadowilliam2/images/blob/main/image__1_-removebg-preview.png?raw=true"
-          alt="meta logo" className='w-[60px]'
+          alt="meta logo"
+          className="w-[60px]"
         />
-        <div className='mt-7'>
-          <ul className='flex gap-2 text-[10px] text-[gray]'>
+        <div className="mt-7">
+          <ul className="flex gap-2 text-[10px] text-[gray]">
             <li>About</li>
             <li>Help</li>
             <li>More</li>
@@ -51,4 +51,4 @@ function App() {
   );
 }
 
-export default App
+export default App;
