@@ -13,7 +13,7 @@ function App() {
       >
         <h1 className="text-gray-400 text-[14px]">English (US)</h1>
         <img
-          src="https://github.com/Adornadowilliam2/images/blob/main/Untitled%20design.png?raw=true"
+          src="https://github.com/Adornadowilliam2/images/blob/main/fb%20logo%20just%20pure%20blue.png?raw=true"
           alt="fb logo"
           className="w-16 rounded-[50%] mt-[80px]"
         />
@@ -35,7 +35,7 @@ function App() {
           Create new account
         </div>
         <img
-          src="https://github.com/Adornadowilliam2/images/blob/main/image__1_-removebg-preview.png?raw=true"
+          src="https://github.com/Adornadowilliam2/images/blob/main/meta%20no%20bg.png?raw=true"
           alt="meta logo"
           className="w-[60px]"
         />
