@@ -30,8 +30,8 @@ function App() {
         <div className="bg-blue-600 p-3 w-[100%] mt-4 text-center text-white rounded-[100px]">
           <button>Log in</button>
         </div>
-        <div className="mt-4">Forgot Password?</div>
-        <div className="border border-[#0068ff] text-[#0068ff] p-2 w-[100%] rounded-[100px] text-center mt-[170px] mb-4">
+        <div >Forgot Password?</div>
+        <div className="border border-[#0068ff] text-[#0068ff] p-2 w-[100%] rounded-[100px] text-center mt-4 mb-4">
           Create new account
         </div>
         <img
@@ -39,7 +39,7 @@ function App() {
           alt="meta logo"
           className="w-[60px]"
         />
-        <div className="mt-7">
+        <div >
           <ul className="flex gap-2 text-[10px] text-[gray]">
             <li>About</li>
             <li>Help</li>
